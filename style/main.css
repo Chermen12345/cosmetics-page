@@ -57,12 +57,22 @@ body{
     font-family:sans-serif;
     font-size: 20px;
     color: white;
+    transition: color 1s;
 }
 .nav-box p{
     font-size: 20px;
     color: #FAFAFA;
     margin: 0 20px 0 20px;
     font-family:Arial;
+    cursor: pointer;
+    transition: color 1s;
+}
+.nav-box p:hover{
+    font-size: 20px;
+    color: #A7917A;
+    margin: 0 20px 0 20px;
+    font-family:Arial;
+    cursor: pointer;
 }
 
 .main-content-box{
@@ -118,5 +128,5 @@ body{
     background-color: #C6D8BD;
     font-family: sans-serif;
     color: black;
-    
+    cursor: pointer;
 }
