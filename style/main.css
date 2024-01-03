@@ -54,24 +54,24 @@ body{
     margin: 0 0 0 15px;
 }
 .title-box p{
-    font-family:sans-serif;
+    font-family: 'DM Sans', sans-serif;
     font-size: 20px;
     color: white;
     transition: color 1s;
 }
 .nav-box p{
-    font-size: 20px;
+    font-size: 15px;
     color: #FAFAFA;
     margin: 0 20px 0 20px;
-    font-family:Arial;
+    font-family: 'DM Sans', sans-serif;
     cursor: pointer;
     transition: color 1s;
 }
 .nav-box p:hover{
-    font-size: 20px;
+    
     color: #A7917A;
     margin: 0 20px 0 20px;
-    font-family:Arial;
+    font-family: 'DM Sans', sans-serif;
     cursor: pointer;
 }
 
@@ -126,7 +126,7 @@ body{
     border-radius: 30px;
     border: #C6D8BD;
     background-color: #C6D8BD;
-    font-family: sans-serif;
+    font-family: 'DM Sans', sans-serif;
     color: black;
     cursor: pointer;
 }
